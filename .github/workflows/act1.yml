@@ -42,4 +42,4 @@ jobs:
 
     # Runs a set of commands using the runners shell
       - name: Read file
-        run: cat README.md
+        run: cat dragon.txt
